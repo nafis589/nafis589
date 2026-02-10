@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/princet43019079" target="blank"><img src="https://img.shields.io/twitter/follow/princet43019079?logo=twitter&style=for-the-badge" alt="princet43019079" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nafisme.vercel.app](https://nafisme.vercel.app)
+- 👨‍💻 All of my projects are available at [https://nafisdev.vercel.app](https://nafisdev.vercel.app)
 
 - 💬 Ask me about **MEARN**
 
