@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **princenafistoure@gmail.com**
 
-- 📄 Know about my experiences [https://nafis589.github.io/CV/CV.pdf](https://nafis589.github.io/CV/CV.pdf)
+- 📄 Know about my experiences [https://nafis589.github.io/CV/CV.pdf](https://nafis589.github.io/CV/CV_12-2025_PrinceNafisToure-1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
